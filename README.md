@@ -1,4 +1,4 @@
-## 🚀 Hi, I am [Manvir](https://www.linkedin.com/in/manvirheer/)
+## [🚀 GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
 **GitHub Profile Views Counter** is an opensource project that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
 It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository.
 
@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/3/5 7:27 AM UTC
+			2023/3/6 7:27 AM UTC
 		</td>
 		<td>
 			1
@@ -37,7 +37,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/3/7 6:37 PM UTC</i></small>
+<small><i>Last updated on 2023/3/8 2:58 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
